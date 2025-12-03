@@ -1,4 +1,5 @@
 Technologies which I have understood
 - login-registration
 - mongodb db connectivity
-- 
+- express middleware . body-parser and cookie-parser
+- jwt for token based authentication
